@@ -1,0 +1,18 @@
+.titulo{
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.cajaDeBoton{
+    text-align: center;
+}
+.botonCambioColor{
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+    background-color: bisque;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.botonCambioColor:hover{
+    background-color: dimgrey;
+    color: whitesmoke;
+}
